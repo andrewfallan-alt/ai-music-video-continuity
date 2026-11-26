@@ -1,6 +1,6 @@
 # Killing AI Slop Across 59 Shots: Multi-Frame Face-Lock, Savitzky-Golay Iris-Lock, and Zero-Freeze Lip-Sync in Python
 
-*Demo output (5:53, 1080p24, 59 shots):* [Forever, Darling (Auto-Renew) — Xena](https://www.youtube.com/watch?v=EY9qd_obnRE)
+*Demo outputs:* **[3:42 End-to-End Making-Of Breakdown](https://www.youtube.com/watch?v=-bNBXyDF0Hk)** · **[14s Raw vs. Locked Split-Screen](https://www.youtube.com/watch?v=9jEY6fKMBF0)** · **[Full 5:53 Music Video (59 shots, 1080p24)](https://www.youtube.com/watch?v=EY9qd_obnRE)**
 
 Most AI music videos look unmistakably like "AI slop" after about four seconds—not because the base image or video models lack resolution, but because **temporal continuity breaks down across cuts**:
 
